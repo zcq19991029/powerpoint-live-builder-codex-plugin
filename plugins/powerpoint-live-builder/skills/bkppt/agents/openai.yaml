@@ -1,0 +1,4 @@
+interface:
+  display_name: "教学备课 PowerPoint 生成与展示"
+  short_description: "生成通用备课教学 PPT、课堂动画及按需现场搭建展示"
+  default_prompt: "Use $bkppt to prepare a learner-centered teaching PowerPoint; first give me 2–3 concrete choices with a recommended option for unresolved style, format, fonts, colors, and animation requirements, continue reversible lesson analysis while I answer in the same task, and only begin authoring after I choose or explicitly delegate the choices."
